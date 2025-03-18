@@ -1,3 +1,3 @@
 # New project
 This project is created from local system.
-Created by Isha Joshi
+Created by Isha Joshi.
